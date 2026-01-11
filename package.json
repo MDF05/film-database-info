@@ -1,0 +1,20 @@
+{
+  "name": "simple-film-database",
+  "version": "1.0.0",
+  "description": "A responsive movie search application using OMDb API",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build step required for this static project\""
+  },
+  "keywords": [
+    "movie",
+    "search",
+    "omdb",
+    "javascript"
+  ],
+  "author": "Muhammad Dava Fahreza",
+  "license": "MIT",
+  "engines": {
+    "node": "22.x"
+  }
+}
